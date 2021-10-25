@@ -1,5 +1,8 @@
 To write python code for getting live stock data using the link provided:
 
+Hadoop version -- 3.3.1
+Flume version -- 1.9.0
+
 
 1. Generate API(Application programming interface) key from following link:
 
